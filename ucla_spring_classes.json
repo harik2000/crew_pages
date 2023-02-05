@@ -1,0 +1,42 @@
+[
+ {
+   "title": "AERO ST A",
+   "fullTitle": "Aerospace Studies A",
+   "name": "Leadership Laboratory",
+   "lecture": "lab 1",
+   "instructor": "Nuuhiwa, K.",
+   "discussions": "lab 1"
+ },
+ {
+   "title": "AERO ST 1C",
+   "fullTitle": "Aerospace Studies 1C",
+   "name": "Heritage and Values",
+   "lecture": "lec 1",
+   "instructor": "Malone, M.B.",
+   "discussions": "lec 1"
+ },
+ {
+   "title": "AERO ST 20C",
+   "fullTitle": "Aerospace Studies 20C",
+   "name": "Team and Leadership Fundamentals",
+   "lecture": "lec 1",
+   "instructor": "Everhart, R.",
+   "discussions": "lec 1"
+ },
+ {
+   "title": "AERO ST 130C",
+   "fullTitle": "Aerospace Studies 130C",
+   "name": "Air Force Leadership Studies",
+   "lecture": "lec 1",
+   "instructor": "Nuuhiwa, K.",
+   "discussions": "lec 1"
+ },
+ {
+   "title": "AERO ST 140C",
+   "fullTitle": "Aerospace Studies 140C",
+   "name": "National Security Affairs/Preparation for Active Duty",
+   "lecture": "lec 1",
+   "instructor": "Allison, M.A.",
+   "discussions": "lec 1"
+ }
+]
